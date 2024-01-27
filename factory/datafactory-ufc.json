@@ -1,0 +1,9 @@
+{
+	"name": "datafactory-ufc",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b51f0c49-4713-4f9e-bfd9-bb60e0322286",
+		"tenantId": "28042279-8ebd-4c5b-9895-9672aa4931ce"
+	}
+}
